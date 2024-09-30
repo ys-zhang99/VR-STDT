@@ -1,0 +1,745 @@
+2024-09-12 23:12:21,040 - src.base.trainer - INFO - the number of parameters: 1778312
+2024-09-12 23:12:21,133 - src.base.trainer - INFO - start training !!!!!
+2024-09-12 23:12:46,122 - src.base.trainer - INFO - Epoch [0/1000]  train_mae: 61.0244, val_mae: 18.9592 
+2024-09-12 23:12:46,157 - src.base.trainer - INFO - Val loss decrease from inf to 18.9592, saving to True
+2024-09-12 23:12:46,162 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:12:46,163 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:12:48,077 - src.base.trainer - INFO - Epoch [0/1000] (0) train_mae: 61.0244, val_mae: 18.9592, lr: 0.001000, 25.0s
+2024-09-12 23:13:08,937 - src.base.trainer - INFO - Epoch [1/1000]  train_mae: 31.7191, val_mae: 16.2645 
+2024-09-12 23:13:08,976 - src.base.trainer - INFO - Val loss decrease from 18.9592 to 16.2645, saving to True
+2024-09-12 23:13:08,977 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:13:08,977 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:13:10,904 - src.base.trainer - INFO - Epoch [1/1000] (0) train_mae: 31.7191, val_mae: 16.2645, lr: 0.001000, 20.9s
+2024-09-12 23:13:32,000 - src.base.trainer - INFO - Epoch [2/1000]  train_mae: 27.4068, val_mae: 14.6814 
+2024-09-12 23:13:32,046 - src.base.trainer - INFO - Val loss decrease from 16.2645 to 14.6814, saving to True
+2024-09-12 23:13:32,046 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:13:32,046 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:13:33,943 - src.base.trainer - INFO - Epoch [2/1000] (0) train_mae: 27.4068, val_mae: 14.6814, lr: 0.000250, 21.1s
+2024-09-12 23:13:55,311 - src.base.trainer - INFO - Epoch [3/1000]  train_mae: 22.7557, val_mae: 10.2499 
+2024-09-12 23:13:55,353 - src.base.trainer - INFO - Val loss decrease from 14.6814 to 10.2499, saving to True
+2024-09-12 23:13:55,354 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:13:55,354 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:13:57,317 - src.base.trainer - INFO - Epoch [3/1000] (0) train_mae: 22.7557, val_mae: 10.2499, lr: 0.000500, 21.4s
+2024-09-12 23:14:19,034 - src.base.trainer - INFO - Epoch [4/1000]  train_mae: 19.5667, val_mae: 12.2242 
+2024-09-12 23:14:19,034 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:14:19,034 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:14:21,009 - src.base.trainer - INFO - Epoch [4/1000] (0) train_mae: 19.5667, val_mae: 12.2242, lr: 0.000500, 21.7s
+2024-09-12 23:14:42,256 - src.base.trainer - INFO - Epoch [5/1000]  train_mae: 21.1929, val_mae: 11.3778 
+2024-09-12 23:14:42,256 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:14:42,256 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:14:44,227 - src.base.trainer - INFO - Epoch [5/1000] (0) train_mae: 21.1929, val_mae: 11.3778, lr: 0.000125, 21.2s
+2024-09-12 23:15:05,410 - src.base.trainer - INFO - Epoch [6/1000]  train_mae: 18.6700, val_mae: 10.6169 
+2024-09-12 23:15:05,410 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:15:05,410 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:15:07,397 - src.base.trainer - INFO - Epoch [6/1000] (0) train_mae: 18.6700, val_mae: 10.6169, lr: 0.000250, 21.2s
+2024-09-12 23:15:28,734 - src.base.trainer - INFO - Epoch [7/1000]  train_mae: 17.5228, val_mae: 9.0378 
+2024-09-12 23:15:28,785 - src.base.trainer - INFO - Val loss decrease from 10.2499 to 9.0378, saving to True
+2024-09-12 23:15:28,785 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:15:28,785 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:15:30,723 - src.base.trainer - INFO - Epoch [7/1000] (0) train_mae: 17.5228, val_mae: 9.0378, lr: 0.000250, 21.4s
+2024-09-12 23:15:52,002 - src.base.trainer - INFO - Epoch [8/1000]  train_mae: 16.9191, val_mae: 9.3331 
+2024-09-12 23:15:52,002 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:15:52,002 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:15:54,028 - src.base.trainer - INFO - Epoch [8/1000] (0) train_mae: 16.9191, val_mae: 9.3331, lr: 0.000063, 21.3s
+2024-09-12 23:16:15,902 - src.base.trainer - INFO - Epoch [9/1000]  train_mae: 16.4046, val_mae: 9.9199 
+2024-09-12 23:16:15,902 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:16:15,918 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:16:17,949 - src.base.trainer - INFO - Epoch [9/1000] (0) train_mae: 16.4046, val_mae: 9.9199, lr: 0.000125, 21.9s
+2024-09-12 23:16:39,602 - src.base.trainer - INFO - Epoch [10/1000]  train_mae: 15.8590, val_mae: 8.3350 
+2024-09-12 23:16:39,647 - src.base.trainer - INFO - Val loss decrease from 9.0378 to 8.3350, saving to True
+2024-09-12 23:16:39,647 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:16:39,647 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:16:41,701 - src.base.trainer - INFO - Epoch [10/1000] (0) train_mae: 15.8590, val_mae: 8.3350, lr: 0.000125, 21.7s
+2024-09-12 23:17:03,377 - src.base.trainer - INFO - Epoch [11/1000]  train_mae: 15.5761, val_mae: 9.6575 
+2024-09-12 23:17:03,379 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:17:03,379 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:17:05,345 - src.base.trainer - INFO - Epoch [11/1000] (0) train_mae: 15.5761, val_mae: 9.6575, lr: 0.000125, 21.7s
+2024-09-12 23:17:27,156 - src.base.trainer - INFO - Epoch [12/1000]  train_mae: 15.7251, val_mae: 9.9250 
+2024-09-12 23:17:27,156 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:17:27,156 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:17:29,164 - src.base.trainer - INFO - Epoch [12/1000] (0) train_mae: 15.7251, val_mae: 9.9250, lr: 0.000125, 21.8s
+2024-09-12 23:17:50,922 - src.base.trainer - INFO - Epoch [13/1000]  train_mae: 15.6666, val_mae: 8.7307 
+2024-09-12 23:17:50,922 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:17:50,922 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:17:52,986 - src.base.trainer - INFO - Epoch [13/1000] (0) train_mae: 15.6666, val_mae: 8.7307, lr: 0.000125, 21.8s
+2024-09-12 23:18:14,934 - src.base.trainer - INFO - Epoch [14/1000]  train_mae: 15.2333, val_mae: 9.3940 
+2024-09-12 23:18:14,934 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:18:14,934 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:18:16,947 - src.base.trainer - INFO - Epoch [14/1000] (0) train_mae: 15.2333, val_mae: 9.3940, lr: 0.000125, 21.9s
+2024-09-12 23:18:38,522 - src.base.trainer - INFO - Epoch [15/1000]  train_mae: 14.7172, val_mae: 9.2686 
+2024-09-12 23:18:38,523 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:18:38,523 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:18:40,510 - src.base.trainer - INFO - Epoch [15/1000] (0) train_mae: 14.7172, val_mae: 9.2686, lr: 0.000125, 21.6s
+2024-09-12 23:19:02,491 - src.base.trainer - INFO - Epoch [16/1000]  train_mae: 14.6267, val_mae: 8.6753 
+2024-09-12 23:19:02,491 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:19:02,491 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:19:04,525 - src.base.trainer - INFO - Epoch [16/1000] (0) train_mae: 14.6267, val_mae: 8.6753, lr: 0.000125, 22.0s
+2024-09-12 23:19:26,503 - src.base.trainer - INFO - Epoch [17/1000]  train_mae: 14.8375, val_mae: 13.0911 
+2024-09-12 23:19:26,503 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:19:26,503 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:19:28,542 - src.base.trainer - INFO - Epoch [17/1000] (0) train_mae: 14.8375, val_mae: 13.0911, lr: 0.000125, 22.0s
+2024-09-12 23:19:50,387 - src.base.trainer - INFO - Epoch [18/1000]  train_mae: 14.9289, val_mae: 9.5364 
+2024-09-12 23:19:50,387 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:19:50,387 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:19:52,467 - src.base.trainer - INFO - Epoch [18/1000] (0) train_mae: 14.9289, val_mae: 9.5364, lr: 0.000125, 21.8s
+2024-09-12 23:20:14,323 - src.base.trainer - INFO - Epoch [19/1000]  train_mae: 14.2384, val_mae: 8.2527 
+2024-09-12 23:20:14,377 - src.base.trainer - INFO - Val loss decrease from 8.3350 to 8.2527, saving to True
+2024-09-12 23:20:14,378 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:20:14,379 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:20:16,362 - src.base.trainer - INFO - Epoch [19/1000] (0) train_mae: 14.2384, val_mae: 8.2527, lr: 0.000125, 21.9s
+2024-09-12 23:20:38,502 - src.base.trainer - INFO - Epoch [20/1000]  train_mae: 14.3003, val_mae: 7.8172 
+2024-09-12 23:20:38,538 - src.base.trainer - INFO - Val loss decrease from 8.2527 to 7.8172, saving to True
+2024-09-12 23:20:38,538 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:20:38,538 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:20:40,543 - src.base.trainer - INFO - Epoch [20/1000] (0) train_mae: 14.3003, val_mae: 7.8172, lr: 0.000125, 22.2s
+2024-09-12 23:21:02,478 - src.base.trainer - INFO - Epoch [21/1000]  train_mae: 13.8880, val_mae: 8.9602 
+2024-09-12 23:21:02,478 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:21:02,478 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:21:04,497 - src.base.trainer - INFO - Epoch [21/1000] (0) train_mae: 13.8880, val_mae: 8.9602, lr: 0.000125, 21.9s
+2024-09-12 23:21:26,255 - src.base.trainer - INFO - Epoch [22/1000]  train_mae: 13.6693, val_mae: 8.0869 
+2024-09-12 23:21:26,255 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:21:26,255 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:21:28,342 - src.base.trainer - INFO - Epoch [22/1000] (0) train_mae: 13.6693, val_mae: 8.0869, lr: 0.000125, 21.8s
+2024-09-12 23:21:50,112 - src.base.trainer - INFO - Epoch [23/1000]  train_mae: 13.6221, val_mae: 8.6639 
+2024-09-12 23:21:50,112 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:21:50,112 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:21:52,144 - src.base.trainer - INFO - Epoch [23/1000] (0) train_mae: 13.6221, val_mae: 8.6639, lr: 0.000125, 21.8s
+2024-09-12 23:22:14,115 - src.base.trainer - INFO - Epoch [24/1000]  train_mae: 13.3442, val_mae: 8.0397 
+2024-09-12 23:22:14,115 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:22:14,115 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:22:16,156 - src.base.trainer - INFO - Epoch [24/1000] (0) train_mae: 13.3442, val_mae: 8.0397, lr: 0.000125, 22.0s
+2024-09-12 23:22:37,914 - src.base.trainer - INFO - Epoch [25/1000]  train_mae: 13.1653, val_mae: 7.9693 
+2024-09-12 23:22:37,914 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:22:37,914 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:22:39,865 - src.base.trainer - INFO - Epoch [25/1000] (0) train_mae: 13.1653, val_mae: 7.9693, lr: 0.000125, 21.8s
+2024-09-12 23:23:01,591 - src.base.trainer - INFO - Epoch [26/1000]  train_mae: 13.1809, val_mae: 7.9128 
+2024-09-12 23:23:01,591 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:23:01,591 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:23:03,566 - src.base.trainer - INFO - Epoch [26/1000] (0) train_mae: 13.1809, val_mae: 7.9128, lr: 0.000125, 21.7s
+2024-09-12 23:23:25,010 - src.base.trainer - INFO - Epoch [27/1000]  train_mae: 13.2087, val_mae: 8.9277 
+2024-09-12 23:23:25,010 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:23:25,010 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:23:26,962 - src.base.trainer - INFO - Epoch [27/1000] (0) train_mae: 13.2087, val_mae: 8.9277, lr: 0.000125, 21.4s
+2024-09-12 23:23:48,834 - src.base.trainer - INFO - Epoch [28/1000]  train_mae: 13.0421, val_mae: 7.5983 
+2024-09-12 23:23:48,871 - src.base.trainer - INFO - Val loss decrease from 7.8172 to 7.5983, saving to True
+2024-09-12 23:23:48,871 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:23:48,871 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:23:50,879 - src.base.trainer - INFO - Epoch [28/1000] (0) train_mae: 13.0421, val_mae: 7.5983, lr: 0.000125, 21.9s
+2024-09-12 23:24:12,825 - src.base.trainer - INFO - Epoch [29/1000]  train_mae: 13.2147, val_mae: 7.8672 
+2024-09-12 23:24:12,825 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:24:12,825 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:24:14,842 - src.base.trainer - INFO - Epoch [29/1000] (0) train_mae: 13.2147, val_mae: 7.8672, lr: 0.000125, 21.9s
+2024-09-12 23:24:36,424 - src.base.trainer - INFO - Epoch [30/1000]  train_mae: 12.8971, val_mae: 8.2952 
+2024-09-12 23:24:36,424 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:24:36,424 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:24:38,428 - src.base.trainer - INFO - Epoch [30/1000] (0) train_mae: 12.8971, val_mae: 8.2952, lr: 0.000125, 21.6s
+2024-09-12 23:25:00,322 - src.base.trainer - INFO - Epoch [31/1000]  train_mae: 12.6715, val_mae: 7.5662 
+2024-09-12 23:25:00,358 - src.base.trainer - INFO - Val loss decrease from 7.5983 to 7.5662, saving to True
+2024-09-12 23:25:00,359 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:25:00,359 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:25:02,386 - src.base.trainer - INFO - Epoch [31/1000] (0) train_mae: 12.6715, val_mae: 7.5662, lr: 0.000125, 21.9s
+2024-09-12 23:25:24,119 - src.base.trainer - INFO - Epoch [32/1000]  train_mae: 12.5455, val_mae: 7.9345 
+2024-09-12 23:25:24,119 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:25:24,119 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:25:26,143 - src.base.trainer - INFO - Epoch [32/1000] (0) train_mae: 12.5455, val_mae: 7.9345, lr: 0.000125, 21.7s
+2024-09-12 23:25:48,349 - src.base.trainer - INFO - Epoch [33/1000]  train_mae: 12.4516, val_mae: 8.4779 
+2024-09-12 23:25:48,349 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:25:48,350 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:25:50,418 - src.base.trainer - INFO - Epoch [33/1000] (0) train_mae: 12.4516, val_mae: 8.4779, lr: 0.000125, 22.2s
+2024-09-12 23:26:12,468 - src.base.trainer - INFO - Epoch [34/1000]  train_mae: 12.4534, val_mae: 8.1658 
+2024-09-12 23:26:12,468 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:26:12,468 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:26:14,506 - src.base.trainer - INFO - Epoch [34/1000] (0) train_mae: 12.4534, val_mae: 8.1658, lr: 0.000125, 22.0s
+2024-09-12 23:26:36,623 - src.base.trainer - INFO - Epoch [35/1000]  train_mae: 12.4878, val_mae: 8.5014 
+2024-09-12 23:26:36,624 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:26:36,624 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:26:38,671 - src.base.trainer - INFO - Epoch [35/1000] (0) train_mae: 12.4878, val_mae: 8.5014, lr: 0.000125, 22.1s
+2024-09-12 23:27:01,256 - src.base.trainer - INFO - Epoch [36/1000]  train_mae: 12.2083, val_mae: 7.1802 
+2024-09-12 23:27:01,301 - src.base.trainer - INFO - Val loss decrease from 7.5662 to 7.1802, saving to True
+2024-09-12 23:27:01,301 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:27:01,301 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:27:03,293 - src.base.trainer - INFO - Epoch [36/1000] (0) train_mae: 12.2083, val_mae: 7.1802, lr: 0.000125, 22.6s
+2024-09-12 23:27:24,884 - src.base.trainer - INFO - Epoch [37/1000]  train_mae: 12.1279, val_mae: 7.3964 
+2024-09-12 23:27:24,884 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:27:24,884 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:27:26,943 - src.base.trainer - INFO - Epoch [37/1000] (0) train_mae: 12.1279, val_mae: 7.3964, lr: 0.000125, 21.6s
+2024-09-12 23:27:48,988 - src.base.trainer - INFO - Epoch [38/1000]  train_mae: 12.4021, val_mae: 7.4984 
+2024-09-12 23:27:48,988 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:27:48,988 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:27:50,998 - src.base.trainer - INFO - Epoch [38/1000] (0) train_mae: 12.4021, val_mae: 7.4984, lr: 0.000125, 22.0s
+2024-09-12 23:28:13,206 - src.base.trainer - INFO - Epoch [39/1000]  train_mae: 11.9817, val_mae: 8.1591 
+2024-09-12 23:28:13,206 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:28:13,206 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:28:15,270 - src.base.trainer - INFO - Epoch [39/1000] (0) train_mae: 11.9817, val_mae: 8.1591, lr: 0.000125, 22.2s
+2024-09-12 23:28:37,067 - src.base.trainer - INFO - Epoch [40/1000]  train_mae: 11.8307, val_mae: 7.5957 
+2024-09-12 23:28:37,067 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:28:37,067 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:28:39,099 - src.base.trainer - INFO - Epoch [40/1000] (0) train_mae: 11.8307, val_mae: 7.5957, lr: 0.000125, 21.8s
+2024-09-12 23:29:01,061 - src.base.trainer - INFO - Epoch [41/1000]  train_mae: 11.6965, val_mae: 8.9721 
+2024-09-12 23:29:01,061 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:29:01,061 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:29:03,075 - src.base.trainer - INFO - Epoch [41/1000] (0) train_mae: 11.6965, val_mae: 8.9721, lr: 0.000125, 22.0s
+2024-09-12 23:29:24,683 - src.base.trainer - INFO - Epoch [42/1000]  train_mae: 12.2640, val_mae: 8.0770 
+2024-09-12 23:29:24,683 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:29:24,683 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:29:26,662 - src.base.trainer - INFO - Epoch [42/1000] (0) train_mae: 12.2640, val_mae: 8.0770, lr: 0.000125, 21.6s
+2024-09-12 23:29:48,488 - src.base.trainer - INFO - Epoch [43/1000]  train_mae: 11.8284, val_mae: 8.4799 
+2024-09-12 23:29:48,488 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:29:48,488 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:29:50,492 - src.base.trainer - INFO - Epoch [43/1000] (0) train_mae: 11.8284, val_mae: 8.4799, lr: 0.000125, 21.8s
+2024-09-12 23:30:12,522 - src.base.trainer - INFO - Epoch [44/1000]  train_mae: 11.5791, val_mae: 7.9962 
+2024-09-12 23:30:12,522 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:30:12,522 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:30:14,530 - src.base.trainer - INFO - Epoch [44/1000] (0) train_mae: 11.5791, val_mae: 7.9962, lr: 0.000125, 22.0s
+2024-09-12 23:30:36,357 - src.base.trainer - INFO - Epoch [45/1000]  train_mae: 12.0964, val_mae: 7.8247 
+2024-09-12 23:30:36,357 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:30:36,357 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:30:38,389 - src.base.trainer - INFO - Epoch [45/1000] (0) train_mae: 12.0964, val_mae: 7.8247, lr: 0.000125, 21.8s
+2024-09-12 23:31:00,694 - src.base.trainer - INFO - Epoch [46/1000]  train_mae: 11.7934, val_mae: 7.5134 
+2024-09-12 23:31:00,694 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:31:00,694 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:31:02,705 - src.base.trainer - INFO - Epoch [46/1000] (0) train_mae: 11.7934, val_mae: 7.5134, lr: 0.000125, 22.3s
+2024-09-12 23:31:24,711 - src.base.trainer - INFO - Epoch [47/1000]  train_mae: 12.0365, val_mae: 9.3041 
+2024-09-12 23:31:24,711 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:31:24,711 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:31:26,739 - src.base.trainer - INFO - Epoch [47/1000] (0) train_mae: 12.0365, val_mae: 9.3041, lr: 0.000125, 22.0s
+2024-09-12 23:31:48,837 - src.base.trainer - INFO - Epoch [48/1000]  train_mae: 11.8229, val_mae: 7.6358 
+2024-09-12 23:31:48,837 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:31:48,837 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:31:50,886 - src.base.trainer - INFO - Epoch [48/1000] (0) train_mae: 11.8229, val_mae: 7.6358, lr: 0.000125, 22.1s
+2024-09-12 23:32:12,862 - src.base.trainer - INFO - Epoch [49/1000]  train_mae: 11.6251, val_mae: 7.3528 
+2024-09-12 23:32:12,862 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:32:12,862 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:32:14,918 - src.base.trainer - INFO - Epoch [49/1000] (0) train_mae: 11.6251, val_mae: 7.3528, lr: 0.000125, 22.0s
+2024-09-12 23:32:36,667 - src.base.trainer - INFO - Epoch [50/1000]  train_mae: 11.4668, val_mae: 8.0535 
+2024-09-12 23:32:36,667 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:32:36,667 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:32:38,658 - src.base.trainer - INFO - Epoch [50/1000] (0) train_mae: 11.4668, val_mae: 8.0535, lr: 0.000125, 21.7s
+2024-09-12 23:33:00,776 - src.base.trainer - INFO - Epoch [51/1000]  train_mae: 11.1292, val_mae: 7.5955 
+2024-09-12 23:33:00,776 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:33:00,776 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:33:02,825 - src.base.trainer - INFO - Epoch [51/1000] (0) train_mae: 11.1292, val_mae: 7.5955, lr: 0.000125, 22.1s
+2024-09-12 23:33:24,701 - src.base.trainer - INFO - Epoch [52/1000]  train_mae: 10.9183, val_mae: 7.2452 
+2024-09-12 23:33:24,701 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:33:24,702 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:33:26,718 - src.base.trainer - INFO - Epoch [52/1000] (0) train_mae: 10.9183, val_mae: 7.2452, lr: 0.000125, 21.9s
+2024-09-12 23:33:48,799 - src.base.trainer - INFO - Epoch [53/1000]  train_mae: 11.0450, val_mae: 7.2158 
+2024-09-12 23:33:48,799 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:33:48,799 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:33:50,803 - src.base.trainer - INFO - Epoch [53/1000] (0) train_mae: 11.0450, val_mae: 7.2158, lr: 0.000125, 22.1s
+2024-09-12 23:34:12,922 - src.base.trainer - INFO - Epoch [54/1000]  train_mae: 10.9363, val_mae: 7.2659 
+2024-09-12 23:34:12,923 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:34:12,923 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:34:14,930 - src.base.trainer - INFO - Epoch [54/1000] (0) train_mae: 10.9363, val_mae: 7.2659, lr: 0.000125, 22.1s
+2024-09-12 23:34:37,066 - src.base.trainer - INFO - Epoch [55/1000]  train_mae: 11.4609, val_mae: 8.0484 
+2024-09-12 23:34:37,066 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:34:37,066 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:34:39,186 - src.base.trainer - INFO - Epoch [55/1000] (0) train_mae: 11.4609, val_mae: 8.0484, lr: 0.000125, 22.1s
+2024-09-12 23:35:01,483 - src.base.trainer - INFO - Epoch [56/1000]  train_mae: 11.3263, val_mae: 8.0724 
+2024-09-12 23:35:01,483 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:35:01,483 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:35:03,488 - src.base.trainer - INFO - Epoch [56/1000] (0) train_mae: 11.3263, val_mae: 8.0724, lr: 0.000125, 22.3s
+2024-09-12 23:35:25,063 - src.base.trainer - INFO - Epoch [57/1000]  train_mae: 10.6998, val_mae: 6.9572 
+2024-09-12 23:35:25,097 - src.base.trainer - INFO - Val loss decrease from 7.1802 to 6.9572, saving to True
+2024-09-12 23:35:25,097 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:35:25,097 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:35:27,140 - src.base.trainer - INFO - Epoch [57/1000] (0) train_mae: 10.6998, val_mae: 6.9572, lr: 0.000125, 21.6s
+2024-09-12 23:35:49,028 - src.base.trainer - INFO - Epoch [58/1000]  train_mae: 11.0442, val_mae: 7.6314 
+2024-09-12 23:35:49,028 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:35:49,044 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:35:51,097 - src.base.trainer - INFO - Epoch [58/1000] (0) train_mae: 11.0442, val_mae: 7.6314, lr: 0.000125, 21.9s
+2024-09-12 23:36:13,301 - src.base.trainer - INFO - Epoch [59/1000]  train_mae: 10.7419, val_mae: 8.0512 
+2024-09-12 23:36:13,301 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:36:13,301 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:36:15,381 - src.base.trainer - INFO - Epoch [59/1000] (0) train_mae: 10.7419, val_mae: 8.0512, lr: 0.000125, 22.2s
+2024-09-12 23:36:37,643 - src.base.trainer - INFO - Epoch [60/1000]  train_mae: 10.2909, val_mae: 6.9886 
+2024-09-12 23:36:37,643 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:36:37,643 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:36:39,726 - src.base.trainer - INFO - Epoch [60/1000] (0) train_mae: 10.2909, val_mae: 6.9886, lr: 0.000125, 22.3s
+2024-09-12 23:37:02,019 - src.base.trainer - INFO - Epoch [61/1000]  train_mae: 10.6895, val_mae: 6.6648 
+2024-09-12 23:37:02,063 - src.base.trainer - INFO - Val loss decrease from 6.9572 to 6.6648, saving to True
+2024-09-12 23:37:02,063 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:37:02,063 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:37:04,104 - src.base.trainer - INFO - Epoch [61/1000] (0) train_mae: 10.6895, val_mae: 6.6648, lr: 0.000125, 22.3s
+2024-09-12 23:37:26,576 - src.base.trainer - INFO - Epoch [62/1000]  train_mae: 10.6168, val_mae: 7.8268 
+2024-09-12 23:37:26,576 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:37:26,576 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:37:28,645 - src.base.trainer - INFO - Epoch [62/1000] (0) train_mae: 10.6168, val_mae: 7.8268, lr: 0.000125, 22.5s
+2024-09-12 23:37:50,843 - src.base.trainer - INFO - Epoch [63/1000]  train_mae: 10.5317, val_mae: 7.4327 
+2024-09-12 23:37:50,843 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:37:50,843 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:37:52,969 - src.base.trainer - INFO - Epoch [63/1000] (0) train_mae: 10.5317, val_mae: 7.4327, lr: 0.000125, 22.2s
+2024-09-12 23:38:15,413 - src.base.trainer - INFO - Epoch [64/1000]  train_mae: 10.2413, val_mae: 7.6965 
+2024-09-12 23:38:15,413 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:38:15,413 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:38:17,447 - src.base.trainer - INFO - Epoch [64/1000] (0) train_mae: 10.2413, val_mae: 7.6965, lr: 0.000125, 22.4s
+2024-09-12 23:38:39,716 - src.base.trainer - INFO - Epoch [65/1000]  train_mae: 10.4981, val_mae: 7.4002 
+2024-09-12 23:38:39,716 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:38:39,731 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:38:41,779 - src.base.trainer - INFO - Epoch [65/1000] (0) train_mae: 10.4981, val_mae: 7.4002, lr: 0.000125, 22.3s
+2024-09-12 23:39:03,868 - src.base.trainer - INFO - Epoch [66/1000]  train_mae: 10.4986, val_mae: 7.6318 
+2024-09-12 23:39:03,868 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:39:03,868 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:39:05,866 - src.base.trainer - INFO - Epoch [66/1000] (0) train_mae: 10.4986, val_mae: 7.6318, lr: 0.000125, 22.1s
+2024-09-12 23:39:27,795 - src.base.trainer - INFO - Epoch [67/1000]  train_mae: 9.9827, val_mae: 7.5274 
+2024-09-12 23:39:27,795 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:39:27,795 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:39:29,864 - src.base.trainer - INFO - Epoch [67/1000] (0) train_mae: 9.9827, val_mae: 7.5274, lr: 0.000125, 21.9s
+2024-09-12 23:39:51,766 - src.base.trainer - INFO - Epoch [68/1000]  train_mae: 9.9868, val_mae: 7.8034 
+2024-09-12 23:39:51,766 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:39:51,766 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:39:53,907 - src.base.trainer - INFO - Epoch [68/1000] (0) train_mae: 9.9868, val_mae: 7.8034, lr: 0.000125, 21.9s
+2024-09-12 23:40:16,159 - src.base.trainer - INFO - Epoch [69/1000]  train_mae: 10.4094, val_mae: 8.6549 
+2024-09-12 23:40:16,159 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:40:16,159 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:40:18,166 - src.base.trainer - INFO - Epoch [69/1000] (0) train_mae: 10.4094, val_mae: 8.6549, lr: 0.000125, 22.2s
+2024-09-12 23:40:39,868 - src.base.trainer - INFO - Epoch [70/1000]  train_mae: 10.3881, val_mae: 7.6286 
+2024-09-12 23:40:39,868 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:40:39,868 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:40:41,850 - src.base.trainer - INFO - Epoch [70/1000] (0) train_mae: 10.3881, val_mae: 7.6286, lr: 0.000125, 21.7s
+2024-09-12 23:41:03,441 - src.base.trainer - INFO - Epoch [71/1000]  train_mae: 9.8860, val_mae: 7.6521 
+2024-09-12 23:41:03,441 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:41:03,441 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:41:05,415 - src.base.trainer - INFO - Epoch [71/1000] (0) train_mae: 9.8860, val_mae: 7.6521, lr: 0.000125, 21.6s
+2024-09-12 23:41:27,298 - src.base.trainer - INFO - Epoch [72/1000]  train_mae: 9.9924, val_mae: 7.8249 
+2024-09-12 23:41:27,298 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:41:27,298 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:41:29,354 - src.base.trainer - INFO - Epoch [72/1000] (0) train_mae: 9.9924, val_mae: 7.8249, lr: 0.000125, 21.9s
+2024-09-12 23:41:51,573 - src.base.trainer - INFO - Epoch [73/1000]  train_mae: 9.7676, val_mae: 7.1557 
+2024-09-12 23:41:51,573 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:41:51,573 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:41:53,643 - src.base.trainer - INFO - Epoch [73/1000] (0) train_mae: 9.7676, val_mae: 7.1557, lr: 0.000125, 22.2s
+2024-09-12 23:42:15,647 - src.base.trainer - INFO - Epoch [74/1000]  train_mae: 10.0039, val_mae: 6.7280 
+2024-09-12 23:42:15,647 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:42:15,663 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:42:17,686 - src.base.trainer - INFO - Epoch [74/1000] (0) train_mae: 10.0039, val_mae: 6.7280, lr: 0.000125, 22.0s
+2024-09-12 23:42:39,464 - src.base.trainer - INFO - Epoch [75/1000]  train_mae: 9.6489, val_mae: 8.3737 
+2024-09-12 23:42:39,464 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:42:39,464 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:42:41,480 - src.base.trainer - INFO - Epoch [75/1000] (0) train_mae: 9.6489, val_mae: 8.3737, lr: 0.000125, 21.8s
+2024-09-12 23:43:03,319 - src.base.trainer - INFO - Epoch [76/1000]  train_mae: 9.6733, val_mae: 7.9336 
+2024-09-12 23:43:03,319 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:43:03,319 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:43:05,334 - src.base.trainer - INFO - Epoch [76/1000] (0) train_mae: 9.6733, val_mae: 7.9336, lr: 0.000125, 21.8s
+2024-09-12 23:43:27,067 - src.base.trainer - INFO - Epoch [77/1000]  train_mae: 9.8567, val_mae: 7.3235 
+2024-09-12 23:43:27,067 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:43:27,067 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:43:29,129 - src.base.trainer - INFO - Epoch [77/1000] (0) train_mae: 9.8567, val_mae: 7.3235, lr: 0.000125, 21.7s
+2024-09-12 23:43:50,800 - src.base.trainer - INFO - Epoch [78/1000]  train_mae: 9.6594, val_mae: 7.8883 
+2024-09-12 23:43:50,800 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:43:50,800 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:43:52,808 - src.base.trainer - INFO - Epoch [78/1000] (0) train_mae: 9.6594, val_mae: 7.8883, lr: 0.000125, 21.7s
+2024-09-12 23:44:14,572 - src.base.trainer - INFO - Epoch [79/1000]  train_mae: 9.5545, val_mae: 7.7471 
+2024-09-12 23:44:14,572 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:44:14,572 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:44:16,638 - src.base.trainer - INFO - Epoch [79/1000] (0) train_mae: 9.5545, val_mae: 7.7471, lr: 0.000125, 21.8s
+2024-09-12 23:44:38,247 - src.base.trainer - INFO - Epoch [80/1000]  train_mae: 10.0315, val_mae: 6.8802 
+2024-09-12 23:44:38,247 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:44:38,247 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:44:40,258 - src.base.trainer - INFO - Epoch [80/1000] (0) train_mae: 10.0315, val_mae: 6.8802, lr: 0.000125, 21.6s
+2024-09-12 23:45:01,893 - src.base.trainer - INFO - Epoch [81/1000]  train_mae: 9.6393, val_mae: 6.7494 
+2024-09-12 23:45:01,893 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:45:01,893 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:45:03,908 - src.base.trainer - INFO - Epoch [81/1000] (0) train_mae: 9.6393, val_mae: 6.7494, lr: 0.000125, 21.6s
+2024-09-12 23:45:25,674 - src.base.trainer - INFO - Epoch [82/1000]  train_mae: 9.2765, val_mae: 6.3846 
+2024-09-12 23:45:25,720 - src.base.trainer - INFO - Val loss decrease from 6.6648 to 6.3846, saving to True
+2024-09-12 23:45:25,720 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:45:25,720 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:45:27,770 - src.base.trainer - INFO - Epoch [82/1000] (0) train_mae: 9.2765, val_mae: 6.3846, lr: 0.000125, 21.8s
+2024-09-12 23:45:49,597 - src.base.trainer - INFO - Epoch [83/1000]  train_mae: 9.2058, val_mae: 6.6895 
+2024-09-12 23:45:49,613 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:45:49,613 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:45:51,675 - src.base.trainer - INFO - Epoch [83/1000] (0) train_mae: 9.2058, val_mae: 6.6895, lr: 0.000125, 21.8s
+2024-09-12 23:46:13,495 - src.base.trainer - INFO - Epoch [84/1000]  train_mae: 9.2446, val_mae: 7.1915 
+2024-09-12 23:46:13,495 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:46:13,495 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:46:15,576 - src.base.trainer - INFO - Epoch [84/1000] (0) train_mae: 9.2446, val_mae: 7.1915, lr: 0.000125, 21.8s
+2024-09-12 23:46:37,182 - src.base.trainer - INFO - Epoch [85/1000]  train_mae: 9.3329, val_mae: 7.7673 
+2024-09-12 23:46:37,182 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:46:37,182 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:46:39,213 - src.base.trainer - INFO - Epoch [85/1000] (0) train_mae: 9.3329, val_mae: 7.7673, lr: 0.000125, 21.6s
+2024-09-12 23:47:00,870 - src.base.trainer - INFO - Epoch [86/1000]  train_mae: 9.2699, val_mae: 7.0358 
+2024-09-12 23:47:00,871 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:47:00,871 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:47:02,957 - src.base.trainer - INFO - Epoch [86/1000] (0) train_mae: 9.2699, val_mae: 7.0358, lr: 0.000125, 21.7s
+2024-09-12 23:47:24,470 - src.base.trainer - INFO - Epoch [87/1000]  train_mae: 9.3874, val_mae: 6.5480 
+2024-09-12 23:47:24,470 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:47:24,470 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:47:26,438 - src.base.trainer - INFO - Epoch [87/1000] (0) train_mae: 9.3874, val_mae: 6.5480, lr: 0.000125, 21.5s
+2024-09-12 23:47:47,832 - src.base.trainer - INFO - Epoch [88/1000]  train_mae: 9.0334, val_mae: 7.2643 
+2024-09-12 23:47:47,832 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:47:47,832 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:47:49,763 - src.base.trainer - INFO - Epoch [88/1000] (0) train_mae: 9.0334, val_mae: 7.2643, lr: 0.000125, 21.4s
+2024-09-12 23:48:10,445 - src.base.trainer - INFO - Epoch [89/1000]  train_mae: 8.8564, val_mae: 7.1857 
+2024-09-12 23:48:10,445 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:48:10,445 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:48:12,323 - src.base.trainer - INFO - Epoch [89/1000] (0) train_mae: 8.8564, val_mae: 7.1857, lr: 0.000125, 20.7s
+2024-09-12 23:48:32,633 - src.base.trainer - INFO - Epoch [90/1000]  train_mae: 9.1440, val_mae: 7.2752 
+2024-09-12 23:48:32,633 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:48:32,633 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:48:34,526 - src.base.trainer - INFO - Epoch [90/1000] (0) train_mae: 9.1440, val_mae: 7.2752, lr: 0.000125, 20.3s
+2024-09-12 23:48:54,926 - src.base.trainer - INFO - Epoch [91/1000]  train_mae: 9.2166, val_mae: 7.1928 
+2024-09-12 23:48:54,926 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:48:54,926 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:48:56,833 - src.base.trainer - INFO - Epoch [91/1000] (0) train_mae: 9.2166, val_mae: 7.1928, lr: 0.000125, 20.4s
+2024-09-12 23:49:17,340 - src.base.trainer - INFO - Epoch [92/1000]  train_mae: 9.4004, val_mae: 7.3219 
+2024-09-12 23:49:17,340 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:49:17,340 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:49:19,218 - src.base.trainer - INFO - Epoch [92/1000] (0) train_mae: 9.4004, val_mae: 7.3219, lr: 0.000125, 20.5s
+2024-09-12 23:49:39,377 - src.base.trainer - INFO - Epoch [93/1000]  train_mae: 8.9310, val_mae: 7.0114 
+2024-09-12 23:49:39,378 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:49:39,378 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:49:41,237 - src.base.trainer - INFO - Epoch [93/1000] (0) train_mae: 8.9310, val_mae: 7.0114, lr: 0.000125, 20.2s
+2024-09-12 23:50:01,687 - src.base.trainer - INFO - Epoch [94/1000]  train_mae: 8.7682, val_mae: 7.3531 
+2024-09-12 23:50:01,687 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:50:01,687 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:50:03,635 - src.base.trainer - INFO - Epoch [94/1000] (0) train_mae: 8.7682, val_mae: 7.3531, lr: 0.000125, 20.5s
+2024-09-12 23:50:23,898 - src.base.trainer - INFO - Epoch [95/1000]  train_mae: 9.2059, val_mae: 7.0451 
+2024-09-12 23:50:23,899 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:50:23,899 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:50:25,778 - src.base.trainer - INFO - Epoch [95/1000] (0) train_mae: 9.2059, val_mae: 7.0451, lr: 0.000125, 20.3s
+2024-09-12 23:50:46,609 - src.base.trainer - INFO - Epoch [96/1000]  train_mae: 8.5920, val_mae: 8.3081 
+2024-09-12 23:50:46,609 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:50:46,609 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:50:48,498 - src.base.trainer - INFO - Epoch [96/1000] (0) train_mae: 8.5920, val_mae: 8.3081, lr: 0.000125, 20.8s
+2024-09-12 23:51:08,840 - src.base.trainer - INFO - Epoch [97/1000]  train_mae: 8.5668, val_mae: 7.0003 
+2024-09-12 23:51:08,840 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:51:08,840 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:51:10,755 - src.base.trainer - INFO - Epoch [97/1000] (0) train_mae: 8.5668, val_mae: 7.0003, lr: 0.000125, 20.3s
+2024-09-12 23:51:31,006 - src.base.trainer - INFO - Epoch [98/1000]  train_mae: 8.5396, val_mae: 7.4814 
+2024-09-12 23:51:31,006 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:51:31,006 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:51:32,895 - src.base.trainer - INFO - Epoch [98/1000] (0) train_mae: 8.5396, val_mae: 7.4814, lr: 0.000125, 20.2s
+2024-09-12 23:51:53,091 - src.base.trainer - INFO - Epoch [99/1000]  train_mae: 8.4994, val_mae: 6.3678 
+2024-09-12 23:51:53,133 - src.base.trainer - INFO - Val loss decrease from 6.3846 to 6.3678, saving to True
+2024-09-12 23:51:53,133 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:51:53,133 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:51:55,036 - src.base.trainer - INFO - Epoch [99/1000] (0) train_mae: 8.4994, val_mae: 6.3678, lr: 0.000125, 20.2s
+2024-09-12 23:52:15,443 - src.base.trainer - INFO - Epoch [100/1000]  train_mae: 8.6922, val_mae: 7.6686 
+2024-09-12 23:52:15,443 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:52:15,443 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:52:17,327 - src.base.trainer - INFO - Epoch [100/1000] (0) train_mae: 8.6922, val_mae: 7.6686, lr: 0.000125, 20.4s
+2024-09-12 23:52:37,798 - src.base.trainer - INFO - Epoch [101/1000]  train_mae: 9.3038, val_mae: 8.7158 
+2024-09-12 23:52:37,798 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:52:37,798 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:52:39,702 - src.base.trainer - INFO - Epoch [101/1000] (0) train_mae: 9.3038, val_mae: 8.7158, lr: 0.000125, 20.5s
+2024-09-12 23:52:59,989 - src.base.trainer - INFO - Epoch [102/1000]  train_mae: 8.4301, val_mae: 7.9970 
+2024-09-12 23:52:59,989 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:52:59,989 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:53:01,891 - src.base.trainer - INFO - Epoch [102/1000] (0) train_mae: 8.4301, val_mae: 7.9970, lr: 0.000125, 20.3s
+2024-09-12 23:53:22,143 - src.base.trainer - INFO - Epoch [103/1000]  train_mae: 8.3496, val_mae: 7.2179 
+2024-09-12 23:53:22,143 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:53:22,143 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:53:23,993 - src.base.trainer - INFO - Epoch [103/1000] (0) train_mae: 8.3496, val_mae: 7.2179, lr: 0.000125, 20.3s
+2024-09-12 23:53:44,184 - src.base.trainer - INFO - Epoch [104/1000]  train_mae: 8.5207, val_mae: 8.3962 
+2024-09-12 23:53:44,184 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:53:44,184 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:53:46,056 - src.base.trainer - INFO - Epoch [104/1000] (0) train_mae: 8.5207, val_mae: 8.3962, lr: 0.000125, 20.2s
+2024-09-12 23:54:06,294 - src.base.trainer - INFO - Epoch [105/1000]  train_mae: 8.3000, val_mae: 7.4533 
+2024-09-12 23:54:06,294 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:54:06,294 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:54:08,183 - src.base.trainer - INFO - Epoch [105/1000] (0) train_mae: 8.3000, val_mae: 7.4533, lr: 0.000125, 20.2s
+2024-09-12 23:54:28,299 - src.base.trainer - INFO - Epoch [106/1000]  train_mae: 8.4466, val_mae: 6.7657 
+2024-09-12 23:54:28,299 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:54:28,299 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:54:30,170 - src.base.trainer - INFO - Epoch [106/1000] (0) train_mae: 8.4466, val_mae: 6.7657, lr: 0.000125, 20.1s
+2024-09-12 23:54:50,449 - src.base.trainer - INFO - Epoch [107/1000]  train_mae: 8.2913, val_mae: 7.3490 
+2024-09-12 23:54:50,449 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:54:50,449 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:54:52,349 - src.base.trainer - INFO - Epoch [107/1000] (0) train_mae: 8.2913, val_mae: 7.3490, lr: 0.000125, 20.3s
+2024-09-12 23:55:12,691 - src.base.trainer - INFO - Epoch [108/1000]  train_mae: 8.2957, val_mae: 7.2984 
+2024-09-12 23:55:12,691 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:55:12,691 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:55:14,558 - src.base.trainer - INFO - Epoch [108/1000] (0) train_mae: 8.2957, val_mae: 7.2984, lr: 0.000125, 20.3s
+2024-09-12 23:55:34,872 - src.base.trainer - INFO - Epoch [109/1000]  train_mae: 8.0245, val_mae: 8.3578 
+2024-09-12 23:55:34,872 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:55:34,872 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:55:36,771 - src.base.trainer - INFO - Epoch [109/1000] (0) train_mae: 8.0245, val_mae: 8.3578, lr: 0.000125, 20.3s
+2024-09-12 23:55:56,992 - src.base.trainer - INFO - Epoch [110/1000]  train_mae: 8.1228, val_mae: 7.4542 
+2024-09-12 23:55:56,992 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:55:56,992 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:55:58,859 - src.base.trainer - INFO - Epoch [110/1000] (0) train_mae: 8.1228, val_mae: 7.4542, lr: 0.000125, 20.2s
+2024-09-12 23:56:19,251 - src.base.trainer - INFO - Epoch [111/1000]  train_mae: 8.0028, val_mae: 7.6348 
+2024-09-12 23:56:19,267 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:56:19,267 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:56:21,140 - src.base.trainer - INFO - Epoch [111/1000] (0) train_mae: 8.0028, val_mae: 7.6348, lr: 0.000125, 20.4s
+2024-09-12 23:56:41,574 - src.base.trainer - INFO - Epoch [112/1000]  train_mae: 8.6654, val_mae: 8.0692 
+2024-09-12 23:56:41,574 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:56:41,574 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:56:43,485 - src.base.trainer - INFO - Epoch [112/1000] (0) train_mae: 8.6654, val_mae: 8.0692, lr: 0.000125, 20.4s
+2024-09-12 23:57:03,872 - src.base.trainer - INFO - Epoch [113/1000]  train_mae: 8.1242, val_mae: 7.3939 
+2024-09-12 23:57:03,872 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:57:03,872 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:57:05,768 - src.base.trainer - INFO - Epoch [113/1000] (0) train_mae: 8.1242, val_mae: 7.3939, lr: 0.000125, 20.4s
+2024-09-12 23:57:26,059 - src.base.trainer - INFO - Epoch [114/1000]  train_mae: 8.1802, val_mae: 6.9780 
+2024-09-12 23:57:26,059 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:57:26,059 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:57:27,934 - src.base.trainer - INFO - Epoch [114/1000] (0) train_mae: 8.1802, val_mae: 6.9780, lr: 0.000125, 20.3s
+2024-09-12 23:57:48,120 - src.base.trainer - INFO - Epoch [115/1000]  train_mae: 8.0232, val_mae: 7.7130 
+2024-09-12 23:57:48,120 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:57:48,120 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:57:49,988 - src.base.trainer - INFO - Epoch [115/1000] (0) train_mae: 8.0232, val_mae: 7.7130, lr: 0.000125, 20.2s
+2024-09-12 23:58:10,191 - src.base.trainer - INFO - Epoch [116/1000]  train_mae: 7.9780, val_mae: 8.4005 
+2024-09-12 23:58:10,191 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:58:10,191 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:58:12,073 - src.base.trainer - INFO - Epoch [116/1000] (0) train_mae: 7.9780, val_mae: 8.4005, lr: 0.000125, 20.2s
+2024-09-12 23:58:32,373 - src.base.trainer - INFO - Epoch [117/1000]  train_mae: 7.9995, val_mae: 6.7481 
+2024-09-12 23:58:32,373 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:58:32,373 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:58:34,261 - src.base.trainer - INFO - Epoch [117/1000] (0) train_mae: 7.9995, val_mae: 6.7481, lr: 0.000125, 20.3s
+2024-09-12 23:58:54,426 - src.base.trainer - INFO - Epoch [118/1000]  train_mae: 7.8660, val_mae: 7.8270 
+2024-09-12 23:58:54,426 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:58:54,426 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:58:56,305 - src.base.trainer - INFO - Epoch [118/1000] (0) train_mae: 7.8660, val_mae: 7.8270, lr: 0.000125, 20.2s
+2024-09-12 23:59:16,582 - src.base.trainer - INFO - Epoch [119/1000]  train_mae: 8.0838, val_mae: 7.8090 
+2024-09-12 23:59:16,582 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:59:16,582 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:59:18,476 - src.base.trainer - INFO - Epoch [119/1000] (0) train_mae: 8.0838, val_mae: 7.8090, lr: 0.000125, 20.3s
+2024-09-12 23:59:38,641 - src.base.trainer - INFO - Epoch [120/1000]  train_mae: 7.9241, val_mae: 6.8892 
+2024-09-12 23:59:38,641 - src.base.trainer - INFO - epoch complete
+2024-09-12 23:59:38,641 - src.base.trainer - INFO - evaluating now!
+2024-09-12 23:59:40,522 - src.base.trainer - INFO - Epoch [120/1000] (0) train_mae: 7.9241, val_mae: 6.8892, lr: 0.000125, 20.1s
+2024-09-13 00:00:00,876 - src.base.trainer - INFO - Epoch [121/1000]  train_mae: 8.0993, val_mae: 7.0899 
+2024-09-13 00:00:00,876 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:00:00,876 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:00:02,772 - src.base.trainer - INFO - Epoch [121/1000] (0) train_mae: 8.0993, val_mae: 7.0899, lr: 0.000125, 20.4s
+2024-09-13 00:00:23,423 - src.base.trainer - INFO - Epoch [122/1000]  train_mae: 8.0756, val_mae: 8.0351 
+2024-09-13 00:00:23,423 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:00:23,423 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:00:25,325 - src.base.trainer - INFO - Epoch [122/1000] (0) train_mae: 8.0756, val_mae: 8.0351, lr: 0.000125, 20.6s
+2024-09-13 00:00:45,555 - src.base.trainer - INFO - Epoch [123/1000]  train_mae: 8.1393, val_mae: 8.8428 
+2024-09-13 00:00:45,555 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:00:45,555 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:00:47,422 - src.base.trainer - INFO - Epoch [123/1000] (0) train_mae: 8.1393, val_mae: 8.8428, lr: 0.000125, 20.2s
+2024-09-13 00:01:07,781 - src.base.trainer - INFO - Epoch [124/1000]  train_mae: 8.1733, val_mae: 8.0954 
+2024-09-13 00:01:07,781 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:01:07,781 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:01:09,672 - src.base.trainer - INFO - Epoch [124/1000] (0) train_mae: 8.1733, val_mae: 8.0954, lr: 0.000125, 20.4s
+2024-09-13 00:01:29,927 - src.base.trainer - INFO - Epoch [125/1000]  train_mae: 7.7481, val_mae: 6.7347 
+2024-09-13 00:01:29,927 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:01:29,927 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:01:31,799 - src.base.trainer - INFO - Epoch [125/1000] (0) train_mae: 7.7481, val_mae: 6.7347, lr: 0.000125, 20.3s
+2024-09-13 00:01:52,369 - src.base.trainer - INFO - Epoch [126/1000]  train_mae: 7.9908, val_mae: 8.0031 
+2024-09-13 00:01:52,369 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:01:52,370 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:01:54,264 - src.base.trainer - INFO - Epoch [126/1000] (0) train_mae: 7.9908, val_mae: 8.0031, lr: 0.000125, 20.6s
+2024-09-13 00:02:14,717 - src.base.trainer - INFO - Epoch [127/1000]  train_mae: 8.0512, val_mae: 8.0642 
+2024-09-13 00:02:14,717 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:02:14,717 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:02:16,587 - src.base.trainer - INFO - Epoch [127/1000] (0) train_mae: 8.0512, val_mae: 8.0642, lr: 0.000125, 20.5s
+2024-09-13 00:02:36,833 - src.base.trainer - INFO - Epoch [128/1000]  train_mae: 7.7931, val_mae: 8.2396 
+2024-09-13 00:02:36,833 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:02:36,833 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:02:38,687 - src.base.trainer - INFO - Epoch [128/1000] (0) train_mae: 7.7931, val_mae: 8.2396, lr: 0.000125, 20.2s
+2024-09-13 00:02:59,135 - src.base.trainer - INFO - Epoch [129/1000]  train_mae: 7.9946, val_mae: 7.2675 
+2024-09-13 00:02:59,135 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:02:59,135 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:03:00,997 - src.base.trainer - INFO - Epoch [129/1000] (0) train_mae: 7.9946, val_mae: 7.2675, lr: 0.000125, 20.4s
+2024-09-13 00:03:21,287 - src.base.trainer - INFO - Epoch [130/1000]  train_mae: 8.2624, val_mae: 8.2846 
+2024-09-13 00:03:21,287 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:03:21,287 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:03:23,150 - src.base.trainer - INFO - Epoch [130/1000] (0) train_mae: 8.2624, val_mae: 8.2846, lr: 0.000125, 20.3s
+2024-09-13 00:03:43,698 - src.base.trainer - INFO - Epoch [131/1000]  train_mae: 7.6699, val_mae: 8.1927 
+2024-09-13 00:03:43,698 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:03:43,698 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:03:45,586 - src.base.trainer - INFO - Epoch [131/1000] (0) train_mae: 7.6699, val_mae: 8.1927, lr: 0.000125, 20.5s
+2024-09-13 00:04:05,929 - src.base.trainer - INFO - Epoch [132/1000]  train_mae: 7.9126, val_mae: 7.2535 
+2024-09-13 00:04:05,930 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:04:05,930 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:04:07,830 - src.base.trainer - INFO - Epoch [132/1000] (0) train_mae: 7.9126, val_mae: 7.2535, lr: 0.000125, 20.3s
+2024-09-13 00:04:28,126 - src.base.trainer - INFO - Epoch [133/1000]  train_mae: 7.4612, val_mae: 7.7328 
+2024-09-13 00:04:28,126 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:04:28,126 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:04:30,014 - src.base.trainer - INFO - Epoch [133/1000] (0) train_mae: 7.4612, val_mae: 7.7328, lr: 0.000125, 20.3s
+2024-09-13 00:04:50,578 - src.base.trainer - INFO - Epoch [134/1000]  train_mae: 7.6340, val_mae: 8.8703 
+2024-09-13 00:04:50,578 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:04:50,578 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:04:52,468 - src.base.trainer - INFO - Epoch [134/1000] (0) train_mae: 7.6340, val_mae: 8.8703, lr: 0.000125, 20.6s
+2024-09-13 00:05:12,633 - src.base.trainer - INFO - Epoch [135/1000]  train_mae: 7.9438, val_mae: 6.4885 
+2024-09-13 00:05:12,633 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:05:12,633 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:05:14,531 - src.base.trainer - INFO - Epoch [135/1000] (0) train_mae: 7.9438, val_mae: 6.4885, lr: 0.000125, 20.1s
+2024-09-13 00:05:34,962 - src.base.trainer - INFO - Epoch [136/1000]  train_mae: 7.5300, val_mae: 7.3516 
+2024-09-13 00:05:34,962 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:05:34,962 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:05:36,832 - src.base.trainer - INFO - Epoch [136/1000] (0) train_mae: 7.5300, val_mae: 7.3516, lr: 0.000125, 20.4s
+2024-09-13 00:05:57,106 - src.base.trainer - INFO - Epoch [137/1000]  train_mae: 7.6305, val_mae: 7.4956 
+2024-09-13 00:05:57,106 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:05:57,122 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:05:59,002 - src.base.trainer - INFO - Epoch [137/1000] (0) train_mae: 7.6305, val_mae: 7.4956, lr: 0.000125, 20.3s
+2024-09-13 00:06:19,387 - src.base.trainer - INFO - Epoch [138/1000]  train_mae: 7.6070, val_mae: 8.0643 
+2024-09-13 00:06:19,387 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:06:19,387 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:06:21,268 - src.base.trainer - INFO - Epoch [138/1000] (0) train_mae: 7.6070, val_mae: 8.0643, lr: 0.000125, 20.4s
+2024-09-13 00:06:41,857 - src.base.trainer - INFO - Epoch [139/1000]  train_mae: 7.3903, val_mae: 7.7208 
+2024-09-13 00:06:41,857 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:06:41,857 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:06:43,861 - src.base.trainer - INFO - Epoch [139/1000] (0) train_mae: 7.3903, val_mae: 7.7208, lr: 0.000125, 20.6s
+2024-09-13 00:07:04,688 - src.base.trainer - INFO - Epoch [140/1000]  train_mae: 7.8768, val_mae: 7.7615 
+2024-09-13 00:07:04,688 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:07:04,688 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:07:06,671 - src.base.trainer - INFO - Epoch [140/1000] (0) train_mae: 7.8768, val_mae: 7.7615, lr: 0.000125, 20.8s
+2024-09-13 00:07:28,062 - src.base.trainer - INFO - Epoch [141/1000]  train_mae: 7.5980, val_mae: 7.8939 
+2024-09-13 00:07:28,062 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:07:28,062 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:07:30,037 - src.base.trainer - INFO - Epoch [141/1000] (0) train_mae: 7.5980, val_mae: 7.8939, lr: 0.000125, 21.4s
+2024-09-13 00:07:51,113 - src.base.trainer - INFO - Epoch [142/1000]  train_mae: 7.5407, val_mae: 7.2888 
+2024-09-13 00:07:51,113 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:07:51,113 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:07:53,014 - src.base.trainer - INFO - Epoch [142/1000] (0) train_mae: 7.5407, val_mae: 7.2888, lr: 0.000125, 21.1s
+2024-09-13 00:08:14,748 - src.base.trainer - INFO - Epoch [143/1000]  train_mae: 7.5213, val_mae: 7.1485 
+2024-09-13 00:08:14,748 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:08:14,748 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:08:16,754 - src.base.trainer - INFO - Epoch [143/1000] (0) train_mae: 7.5213, val_mae: 7.1485, lr: 0.000125, 21.7s
+2024-09-13 00:08:37,427 - src.base.trainer - INFO - Epoch [144/1000]  train_mae: 7.6704, val_mae: 6.9235 
+2024-09-13 00:08:37,427 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:08:37,427 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:08:39,326 - src.base.trainer - INFO - Epoch [144/1000] (0) train_mae: 7.6704, val_mae: 6.9235, lr: 0.000125, 20.7s
+2024-09-13 00:08:59,671 - src.base.trainer - INFO - Epoch [145/1000]  train_mae: 7.4882, val_mae: 9.0543 
+2024-09-13 00:08:59,671 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:08:59,671 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:09:01,579 - src.base.trainer - INFO - Epoch [145/1000] (0) train_mae: 7.4882, val_mae: 9.0543, lr: 0.000125, 20.3s
+2024-09-13 00:09:21,946 - src.base.trainer - INFO - Epoch [146/1000]  train_mae: 7.9835, val_mae: 7.6905 
+2024-09-13 00:09:21,946 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:09:21,946 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:09:23,831 - src.base.trainer - INFO - Epoch [146/1000] (0) train_mae: 7.9835, val_mae: 7.6905, lr: 0.000125, 20.4s
+2024-09-13 00:09:44,063 - src.base.trainer - INFO - Epoch [147/1000]  train_mae: 7.4578, val_mae: 8.1810 
+2024-09-13 00:09:44,063 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:09:44,064 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:09:45,965 - src.base.trainer - INFO - Epoch [147/1000] (0) train_mae: 7.4578, val_mae: 8.1810, lr: 0.000125, 20.2s
+2024-09-13 00:10:06,494 - src.base.trainer - INFO - Epoch [148/1000]  train_mae: 7.6674, val_mae: 7.1430 
+2024-09-13 00:10:06,494 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:10:06,494 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:10:08,387 - src.base.trainer - INFO - Epoch [148/1000] (0) train_mae: 7.6674, val_mae: 7.1430, lr: 0.000125, 20.5s
+2024-09-13 00:10:28,793 - src.base.trainer - INFO - Epoch [149/1000]  train_mae: 7.5035, val_mae: 7.4398 
+2024-09-13 00:10:28,793 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:10:28,793 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:10:30,680 - src.base.trainer - INFO - Epoch [149/1000] (0) train_mae: 7.5035, val_mae: 7.4398, lr: 0.000125, 20.4s
+2024-09-13 00:10:51,126 - src.base.trainer - INFO - Epoch [150/1000]  train_mae: 7.6733, val_mae: 7.2704 
+2024-09-13 00:10:51,126 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:10:51,126 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:10:53,014 - src.base.trainer - INFO - Epoch [150/1000] (0) train_mae: 7.6733, val_mae: 7.2704, lr: 0.000125, 20.4s
+2024-09-13 00:11:13,554 - src.base.trainer - INFO - Epoch [151/1000]  train_mae: 7.5472, val_mae: 7.8054 
+2024-09-13 00:11:13,554 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:11:13,554 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:11:15,460 - src.base.trainer - INFO - Epoch [151/1000] (0) train_mae: 7.5472, val_mae: 7.8054, lr: 0.000125, 20.5s
+2024-09-13 00:11:35,802 - src.base.trainer - INFO - Epoch [152/1000]  train_mae: 7.2394, val_mae: 7.1448 
+2024-09-13 00:11:35,802 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:11:35,802 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:11:37,708 - src.base.trainer - INFO - Epoch [152/1000] (0) train_mae: 7.2394, val_mae: 7.1448, lr: 0.000125, 20.3s
+2024-09-13 00:11:58,085 - src.base.trainer - INFO - Epoch [153/1000]  train_mae: 7.4226, val_mae: 8.3162 
+2024-09-13 00:11:58,085 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:11:58,085 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:11:59,974 - src.base.trainer - INFO - Epoch [153/1000] (0) train_mae: 7.4226, val_mae: 8.3162, lr: 0.000125, 20.4s
+2024-09-13 00:12:20,646 - src.base.trainer - INFO - Epoch [154/1000]  train_mae: 7.4678, val_mae: 7.3285 
+2024-09-13 00:12:20,646 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:12:20,661 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:12:22,535 - src.base.trainer - INFO - Epoch [154/1000] (0) train_mae: 7.4678, val_mae: 7.3285, lr: 0.000125, 20.7s
+2024-09-13 00:12:42,849 - src.base.trainer - INFO - Epoch [155/1000]  train_mae: 7.2812, val_mae: 8.7871 
+2024-09-13 00:12:42,849 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:12:42,865 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:12:44,761 - src.base.trainer - INFO - Epoch [155/1000] (0) train_mae: 7.2812, val_mae: 8.7871, lr: 0.000125, 20.3s
+2024-09-13 00:13:05,254 - src.base.trainer - INFO - Epoch [156/1000]  train_mae: 7.3138, val_mae: 7.6932 
+2024-09-13 00:13:05,254 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:13:05,254 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:13:07,133 - src.base.trainer - INFO - Epoch [156/1000] (0) train_mae: 7.3138, val_mae: 7.6932, lr: 0.000125, 20.5s
+2024-09-13 00:13:27,398 - src.base.trainer - INFO - Epoch [157/1000]  train_mae: 7.1622, val_mae: 7.2276 
+2024-09-13 00:13:27,398 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:13:27,398 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:13:29,270 - src.base.trainer - INFO - Epoch [157/1000] (0) train_mae: 7.1622, val_mae: 7.2276, lr: 0.000125, 20.3s
+2024-09-13 00:13:49,523 - src.base.trainer - INFO - Epoch [158/1000]  train_mae: 7.0771, val_mae: 7.6078 
+2024-09-13 00:13:49,523 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:13:49,523 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:13:51,408 - src.base.trainer - INFO - Epoch [158/1000] (0) train_mae: 7.0771, val_mae: 7.6078, lr: 0.000125, 20.3s
+2024-09-13 00:14:11,768 - src.base.trainer - INFO - Epoch [159/1000]  train_mae: 7.6587, val_mae: 9.3768 
+2024-09-13 00:14:11,768 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:14:11,768 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:14:13,637 - src.base.trainer - INFO - Epoch [159/1000] (0) train_mae: 7.6587, val_mae: 9.3768, lr: 0.000125, 20.4s
+2024-09-13 00:14:33,886 - src.base.trainer - INFO - Epoch [160/1000]  train_mae: 7.4392, val_mae: 7.9631 
+2024-09-13 00:14:33,886 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:14:33,886 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:14:35,768 - src.base.trainer - INFO - Epoch [160/1000] (0) train_mae: 7.4392, val_mae: 7.9631, lr: 0.000125, 20.2s
+2024-09-13 00:14:56,178 - src.base.trainer - INFO - Epoch [161/1000]  train_mae: 7.2867, val_mae: 7.9555 
+2024-09-13 00:14:56,178 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:14:56,178 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:14:58,059 - src.base.trainer - INFO - Epoch [161/1000] (0) train_mae: 7.2867, val_mae: 7.9555, lr: 0.000125, 20.4s
+2024-09-13 00:15:18,506 - src.base.trainer - INFO - Epoch [162/1000]  train_mae: 7.2096, val_mae: 8.1133 
+2024-09-13 00:15:18,507 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:15:18,507 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:15:20,397 - src.base.trainer - INFO - Epoch [162/1000] (0) train_mae: 7.2096, val_mae: 8.1133, lr: 0.000125, 20.4s
+2024-09-13 00:15:40,811 - src.base.trainer - INFO - Epoch [163/1000]  train_mae: 7.3544, val_mae: 7.8214 
+2024-09-13 00:15:40,811 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:15:40,811 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:15:42,673 - src.base.trainer - INFO - Epoch [163/1000] (0) train_mae: 7.3544, val_mae: 7.8214, lr: 0.000125, 20.4s
+2024-09-13 00:16:02,914 - src.base.trainer - INFO - Epoch [164/1000]  train_mae: 7.3973, val_mae: 7.0725 
+2024-09-13 00:16:02,914 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:16:02,914 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:16:04,839 - src.base.trainer - INFO - Epoch [164/1000] (0) train_mae: 7.3973, val_mae: 7.0725, lr: 0.000125, 20.2s
+2024-09-13 00:16:25,589 - src.base.trainer - INFO - Epoch [165/1000]  train_mae: 6.9197, val_mae: 7.5537 
+2024-09-13 00:16:25,589 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:16:25,589 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:16:27,463 - src.base.trainer - INFO - Epoch [165/1000] (0) train_mae: 6.9197, val_mae: 7.5537, lr: 0.000125, 20.8s
+2024-09-13 00:16:47,874 - src.base.trainer - INFO - Epoch [166/1000]  train_mae: 7.3209, val_mae: 7.6238 
+2024-09-13 00:16:47,874 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:16:47,874 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:16:49,768 - src.base.trainer - INFO - Epoch [166/1000] (0) train_mae: 7.3209, val_mae: 7.6238, lr: 0.000125, 20.4s
+2024-09-13 00:17:10,330 - src.base.trainer - INFO - Epoch [167/1000]  train_mae: 7.0724, val_mae: 7.4407 
+2024-09-13 00:17:10,330 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:17:10,331 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:17:12,236 - src.base.trainer - INFO - Epoch [167/1000] (0) train_mae: 7.0724, val_mae: 7.4407, lr: 0.000125, 20.6s
+2024-09-13 00:17:32,513 - src.base.trainer - INFO - Epoch [168/1000]  train_mae: 7.2944, val_mae: 8.1939 
+2024-09-13 00:17:32,513 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:17:32,513 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:17:34,400 - src.base.trainer - INFO - Epoch [168/1000] (0) train_mae: 7.2944, val_mae: 8.1939, lr: 0.000125, 20.3s
+2024-09-13 00:17:54,745 - src.base.trainer - INFO - Epoch [169/1000]  train_mae: 7.0632, val_mae: 6.5174 
+2024-09-13 00:17:54,745 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:17:54,745 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:17:56,633 - src.base.trainer - INFO - Epoch [169/1000] (0) train_mae: 7.0632, val_mae: 6.5174, lr: 0.000125, 20.3s
+2024-09-13 00:18:17,224 - src.base.trainer - INFO - Epoch [170/1000]  train_mae: 7.1543, val_mae: 6.9312 
+2024-09-13 00:18:17,229 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:18:17,229 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:18:19,148 - src.base.trainer - INFO - Epoch [170/1000] (0) train_mae: 7.1543, val_mae: 6.9312, lr: 0.000125, 20.6s
+2024-09-13 00:18:39,638 - src.base.trainer - INFO - Epoch [171/1000]  train_mae: 7.1345, val_mae: 7.1157 
+2024-09-13 00:18:39,638 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:18:39,638 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:18:41,521 - src.base.trainer - INFO - Epoch [171/1000] (0) train_mae: 7.1345, val_mae: 7.1157, lr: 0.000125, 20.5s
+2024-09-13 00:19:02,820 - src.base.trainer - INFO - Epoch [172/1000]  train_mae: 6.9049, val_mae: 7.3047 
+2024-09-13 00:19:02,820 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:19:02,820 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:19:04,707 - src.base.trainer - INFO - Epoch [172/1000] (0) train_mae: 6.9049, val_mae: 7.3047, lr: 0.000125, 21.3s
+2024-09-13 00:19:25,143 - src.base.trainer - INFO - Epoch [173/1000]  train_mae: 7.7349, val_mae: 8.1688 
+2024-09-13 00:19:25,143 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:19:25,143 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:19:27,060 - src.base.trainer - INFO - Epoch [173/1000] (0) train_mae: 7.7349, val_mae: 8.1688, lr: 0.000125, 20.4s
+2024-09-13 00:19:47,594 - src.base.trainer - INFO - Epoch [174/1000]  train_mae: 7.0871, val_mae: 7.1229 
+2024-09-13 00:19:47,594 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:19:47,594 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:19:49,473 - src.base.trainer - INFO - Epoch [174/1000] (0) train_mae: 7.0871, val_mae: 7.1229, lr: 0.000125, 20.5s
+2024-09-13 00:20:10,037 - src.base.trainer - INFO - Epoch [175/1000]  train_mae: 7.1064, val_mae: 7.4476 
+2024-09-13 00:20:10,037 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:20:10,037 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:20:11,954 - src.base.trainer - INFO - Epoch [175/1000] (0) train_mae: 7.1064, val_mae: 7.4476, lr: 0.000125, 20.6s
+2024-09-13 00:20:32,501 - src.base.trainer - INFO - Epoch [176/1000]  train_mae: 6.9041, val_mae: 7.3115 
+2024-09-13 00:20:32,501 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:20:32,501 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:20:34,398 - src.base.trainer - INFO - Epoch [176/1000] (0) train_mae: 6.9041, val_mae: 7.3115, lr: 0.000125, 20.5s
+2024-09-13 00:20:55,286 - src.base.trainer - INFO - Epoch [177/1000]  train_mae: 7.0040, val_mae: 6.9945 
+2024-09-13 00:20:55,286 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:20:55,286 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:20:57,286 - src.base.trainer - INFO - Epoch [177/1000] (0) train_mae: 7.0040, val_mae: 6.9945, lr: 0.000125, 20.9s
+2024-09-13 00:21:18,269 - src.base.trainer - INFO - Epoch [178/1000]  train_mae: 6.9670, val_mae: 8.8842 
+2024-09-13 00:21:18,269 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:21:18,269 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:21:20,195 - src.base.trainer - INFO - Epoch [178/1000] (0) train_mae: 6.9670, val_mae: 8.8842, lr: 0.000125, 21.0s
+2024-09-13 00:21:40,747 - src.base.trainer - INFO - Epoch [179/1000]  train_mae: 6.9598, val_mae: 9.1354 
+2024-09-13 00:21:40,762 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:21:40,763 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:21:42,700 - src.base.trainer - INFO - Epoch [179/1000] (0) train_mae: 6.9598, val_mae: 9.1354, lr: 0.000125, 20.6s
+2024-09-13 00:22:03,316 - src.base.trainer - INFO - Epoch [180/1000]  train_mae: 6.8329, val_mae: 9.0179 
+2024-09-13 00:22:03,316 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:22:03,316 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:22:05,261 - src.base.trainer - INFO - Epoch [180/1000] (0) train_mae: 6.8329, val_mae: 9.0179, lr: 0.000125, 20.6s
+2024-09-13 00:22:25,861 - src.base.trainer - INFO - Epoch [181/1000]  train_mae: 6.8248, val_mae: 8.8771 
+2024-09-13 00:22:25,862 - src.base.trainer - INFO - epoch complete
+2024-09-13 00:22:25,862 - src.base.trainer - INFO - evaluating now!
+2024-09-13 00:22:27,885 - src.base.trainer - INFO - Epoch [181/1000] (0) train_mae: 6.8248, val_mae: 8.8771, lr: 0.000125, 20.6s
